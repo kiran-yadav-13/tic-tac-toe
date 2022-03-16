@@ -21,6 +21,4 @@
  
  **3)** RESET button- to restart the game
  
- **SNAPSHOT**
- 
- ![alt text](https://github.com/kiran-yadav-13/tic-tac-toe/blob/master/Screenshot%20(461.png)
+
