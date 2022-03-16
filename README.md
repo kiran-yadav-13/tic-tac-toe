@@ -1,6 +1,6 @@
 # tic-tac-toe Game : 
 
-**webpage link :**https://kiran-yadav-13.github.io/tic-tac-toe/
+**webpage link :** https://kiran-yadav-13.github.io/tic-tac-toe/
 
 **tic-tac-toe is my first javascript project/game that is developed while learning javascript**
 
@@ -21,5 +21,5 @@
  
  **3)** RESET button- to restart the game
  
- 
- 
+ **SNAPSHOT**
+ https://github.com/kiran-yadav-13/tic-tac-toe/blob/master/Screenshot%20(461).png
